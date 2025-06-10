@@ -130,7 +130,7 @@ function validateProduct(req, res, next) {
       .status(400)
       .json({ error: "Validation Error: Missing or invalid fields" });
   }
-  next;
+  next();
 }
 
 // Start the server
