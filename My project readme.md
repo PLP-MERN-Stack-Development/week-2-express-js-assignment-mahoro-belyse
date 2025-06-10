@@ -1,5 +1,3 @@
-# README.md
-
 # Product API (Express.js)
 
 This is a basic Express.js RESTful API for managing a simple in-memory product list. It includes product CRUD operations, basic authentication, request logging, and validation.
